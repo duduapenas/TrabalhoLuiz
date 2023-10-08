@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Atividade01Application<atividade01>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "unip.alpoo.atividade01.Atividade01Application",
+            "projectName": "atividade01",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
